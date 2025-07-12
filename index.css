@@ -211,15 +211,14 @@ footer a{
   text-decoration: none;
   color: rgba(0, 0, 0, 0.422);
   margin-right: 48px;
-  height: 50px;
 }
 .w-name{
   font-size: 100px;
   color: rgba(78, 71, 255, 1);
 }
 .w-subtitle{
-  margin: 18px 145px 40px 145px;
-  height: 45px;
-  font-size: 30px;
-  padding: 0 120px;
+  margin: 25px 145px 0 145px;
+  height: 100px;
+  font-size: 25px;
+  padding: 10px 100px;
 }
