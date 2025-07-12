@@ -83,8 +83,9 @@ main {
   max-width: 1140px;
   margin: 0 auto;
 }
-main section {
+section{
   margin: 116px 0;
+  align-items: center;
 }
 
 /* action style */
@@ -167,9 +168,7 @@ main section {
   color: rgba(179, 179, 179, 1);
 }
 
-section {
-  align-items: center;
-}
+
 /* touch section */
 .touch {
   display: flex;
@@ -184,7 +183,6 @@ form {
   padding: 71px 0;
   background-color: #ffffffef;
 }
-
 .same-w {
   width: 50%;
 }
@@ -200,8 +198,26 @@ form {
   padding: 10px 20px;
   margin: 10px 0 19px 0;
 }
-
 .touch textarea {
   height: 135px;
   border-radius: 10px;
+}
+
+
+/* footer style */
+footer a{
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.422);
+  margin-right: 48px;
+  height: 50px;
+}
+.w-name{
+  font-size: 100px;
+  color: rgba(78, 71, 255, 1);
+}
+.w-subtitle{
+  margin: 18px 145px 40px 145px;
+  height: 45px;
+  font-size: 30px;
+  padding: 0 120px;
 }
