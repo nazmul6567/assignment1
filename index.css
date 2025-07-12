@@ -18,7 +18,8 @@
   color: black;
   background-color: rgba(8, 85, 162, 0.279);
   cursor: pointer;
-  box-shadow: 7px 7px 10px rgba(0, 0, 0, 0.276);
+  box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.276);
+  transform: scale(1,1);
 }
 
 /* shared item */
@@ -36,6 +37,7 @@
   border-radius: 10px;
   border: none;
   height: 48px;
+  transition: all 0.3s ease;
 }
 .title {
   font-weight: bold;
