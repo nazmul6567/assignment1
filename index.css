@@ -207,11 +207,7 @@ form {
 
 
 /* footer style */
-footer a{
-  text-decoration: none;
-  color: rgba(0, 0, 0, 0.422);
-  margin-right: 48px;
-}
+
 .w-name{
   font-size: 100px;
   color: rgba(78, 71, 255, 1);
